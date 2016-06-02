@@ -1,5 +1,5 @@
 # Site settings
-title: Estuda Mais Murici
+title: Estuda Mais Rio Largo
 email: your-email@domain.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -19,7 +19,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Estuda Mais Murici 
+  copyright: Estuda Mais Rio Largo
   location: ACESSE
   social: Around the Web
   credits: Credits
